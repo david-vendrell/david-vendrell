@@ -1,19 +1,26 @@
-# Hi there, I'm **David Vendrell López** 
+# Hi there, I'm **David Vendrell López** 👋
 
 Full-time **computer engineering student** 2nd year 🧑‍🎓🎓.
 
 ## **😁 About me**
 
-- 👀 I’m interested in Software Development, Information Systems, Apple Development and Databases
-- 🌱 I’m learning Python, Java and Swift
-- 💞️ I’m looking to collaborate on small projects as an intern to help develop the product
+- 👀 I’m interested in Software Development, Information Systems, Apple Development and Databases.
+- 🔋 I’m looking to collaborate on small projects as an intern to help develop the product.
 - 💡 I'm also looking to start any project or idea to help change the world!
 
 ## **⌨️ Languages I use**
 <p align="center">
-  <img alt="C++" src="https://img.shields.io/badge/c++-%231572B6.svg?style=for-the-badge&logo=c++&logoColor=white" />
-  <img alt="C" src="https://img.shields.io/badge/-C-0000FF?style=for-the-badge&logo=&logoColor=white" />
-  <img alt="SQL" src="https://img.shields.io/badge/-SQL-E10098?style=for-the-badge&logo=sql&logoColor=white" />
+  <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-003545?style=for-the-badge&logo=SQL&logoColor=white" />
+  
+## **🌱 I'm learning**
+ <p align="center">
+  <img alt="SWIFT" src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" />
+  <img alt="JAVA" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
+  <img alt="C" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  
+  
   
 
 ## **📫 How to reach me**
