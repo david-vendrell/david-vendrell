@@ -1,18 +1,20 @@
-# Hi there, I'm **David Vendrell López**
+# Hi there, I'm **David Vendrell López** 
 
 Full-time **computer engineering student** 2nd year 🧑‍🎓🎓.
 
-## **About me**
+## **😁 About me**
 
 - 👀 I’m interested in Software Development, Information Systems, Apple Development and Databases
-- 🌱 I’m learning Python, C and Swift
+- 🌱 I’m learning Python, Java and Swift
 - 💞️ I’m looking to collaborate on small projects as an intern to help develop the product
 - 💡 I'm also looking to start any project or idea to help change the world!
 
 ## **⌨️ Languages I use**
 <p align="center">
   <img alt="C++" src="https://img.shields.io/badge/c++-%231572B6.svg?style=for-the-badge&logo=c++&logoColor=white" />
+  <img alt="C" src="https://img.shields.io/badge/-C-0000FF?style=for-the-badge&logo=&logoColor=white" />
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-E10098?style=for-the-badge&logo=sql&logoColor=white" />
+  
 
 ## **📫 How to reach me**
 <p align="center">
