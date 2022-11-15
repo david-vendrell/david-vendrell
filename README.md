@@ -35,9 +35,10 @@ Full-time **computer engineering student** 2nd year 🧑‍🎓🎓.
               alt="david-vendrell's Gmail">
 
 
-
-
-
+## **👨‍💻 Visitor Count**
+<div align="center">
+  
+  ![Visitor Count](https://profile-counter.glitch.me/david-vendrell/count.svg)
 
 
 
