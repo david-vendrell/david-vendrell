@@ -7,7 +7,7 @@ Full-time **computer engineering student** 2nd year 🧑‍🎓🎓.
 - 👀 I’m interested in Software Development, Information Systems, Apple Development and Databases
 - 🌱 I’m learning Python, C and Swift
 - 💞️ I’m looking to collaborate on small projects as an intern to help develop the product
-- 💡 I'm also looking to start any project or idea to help change the world
+- 💡 I'm also looking to start any project or idea to help change the world!
 
 ## **⌨️ Languages I use**
 <p align="center">
@@ -36,19 +36,4 @@ Full-time **computer engineering student** 2nd year 🧑‍🎓🎓.
 david-vendrell/david-vendrell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 
-
-
-
-
-
-
-
-
-
-
-
-I H, I'm @vendrelly
-•I'm interested in Software development. Information Sustems. Apple Development and Databases
-• I'm currently studying Computer Engineering at Upcin Barcelona u 
-I program in C++ and C, now learning Python, Java and Swift
-* I'm looking to collaborate on small projects as an intern to help develop the product as How to reach me: davidvendrel6@gmail.com
+--->
