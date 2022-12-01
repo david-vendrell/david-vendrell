@@ -14,7 +14,7 @@ Full-time **computer engineering student** 2nd year 🧑‍🎓🎓.
   <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
   <img alt="SQL" src="https://img.shields.io/badge/SQL-003545?style=for-the-badge&logo=SQL&logoColor=white" />
   
-## **🌱 I'm learning**
+## **📈 I'm learning**
  <p align="center">
   <img alt="SWIFT" src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" />
   <img alt="JAVA" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
@@ -23,7 +23,7 @@ Full-time **computer engineering student** 2nd year 🧑‍🎓🎓.
   
   
 
-## **📫 How to reach me**
+## **📮 How to reach me**
 <p align="center">
   </a>
       <a href="https://www.linkedin.com/in/david-vendrell-lópez-9ba841226/">
