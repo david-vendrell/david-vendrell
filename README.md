@@ -1,6 +1,6 @@
 # Hi there, I'm **David Vendrell López** 👋
 
-- Full-time **computer engineering student** 2nd year 🧑‍🎓🎓.
+- Full-time **computer engineering student** 3rd year 🧑‍🎓🎓.
 - Actually working as a Software Engineer Intern 📲.
 
 ## **😁 About me**
