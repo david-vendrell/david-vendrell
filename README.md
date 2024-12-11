@@ -1,26 +1,37 @@
 # Hi there, I'm **David Vendrell López** 👋
 
-- Full-time **computer engineering student** 4th year 🧑‍🎓🎓.
+- 🎓 **Computer engineering student** 4th year, specialized in Software Engineering.
+- 💡 Passionate about **startups**, building new projects, and developing software.
+- 🚀 I’m eager to **collaborate** on projects that **innovate** and create real-world impact.
+- 🔍 Actually working as Data Analyst at **Accenture**
 
-## **😁 About me**
 
-- 👀 I’m interested in Software Development, Information Systems, Apple Development and Databases.
-- 🔋 I’m looking to collaborate on small projects as an intern to help develop the product.
-- 💡 I'm also looking to start any project or idea to help change the world!
-
-## **⌨️ Languages I use**
+## **⌨️ Some tools and languages I use**
 <p align="center">
   <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
   <img alt="SQL" src="https://img.shields.io/badge/SQL-003545?style=for-the-badge&logo=SQL&logoColor=white" />
   <img alt="C" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  
-## **📈 I'm learning**
- <p align="center">
   <img alt="SWIFT" src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" />
   <img alt="JAVA" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
-  
-  
+  <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img alt="Data Analysis" src="https://img.shields.io/badge/Data%20Analysis-007ACC?style=for-the-badge&logo=microsoft%20excel&logoColor=white" />
+  <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+  <img alt="Agile Method" src="https://img.shields.io/badge/Agile%20Method-1C1C1C?style=for-the-badge&logo=agile&logoColor=white" />
+  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" />
+  <img alt="APIs" src="https://img.shields.io/badge/APIs-000000?style=for-the-badge&logo=api&logoColor=white" />
+  <img alt="Render" src="https://img.shields.io/badge/Render-2D2D2D?style=for-the-badge&logo=render&logoColor=white" />
+
   
 
 ## **📮 How to reach me**
