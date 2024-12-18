@@ -3,7 +3,6 @@
 - 🎓 **Computer engineering student** 4th year, specialized in Software Engineering.
 - 💡 Passionate about **startups**, building new projects, and developing software.
 - 🚀 I’m eager to **collaborate** on projects that **innovate** and create real-world impact.
-- 🔍 Actually working as Data Analyst at **Accenture**
 
 
 ## **⌨️ Some tools and languages I use**
