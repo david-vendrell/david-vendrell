@@ -1,8 +1,7 @@
 # Hi there, I'm **David Vendrell López** 👋
 
-- 🎓 **Computer engineering student** 4th year, specialized in Software Engineering.
-- 💡 Passionate about **startups**, building new projects, and developing software.
-- 🚀 I’m eager to **collaborate** on projects that **innovate** and create real-world impact.
+- **Computer Science Graduate**, specialized in Software Engineering.
+- Always building projects
 
 
 ## **⌨️ Some tools and languages I use**
