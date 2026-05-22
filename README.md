@@ -34,10 +34,6 @@
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img alt="APIs" src="https://img.shields.io/badge/APIs-000000?style=for-the-badge&logo=api&logoColor=white" />
   <br />
-  <img alt="Data Analysis" src="https://img.shields.io/badge/Data%20Analysis-007ACC?style=for-the-badge&logo=microsoft%20excel&logoColor=white" />
-  <img alt="Agile Method" src="https://img.shields.io/badge/Agile%20Method-1C1C1C?style=for-the-badge&logo=agile&logoColor=white" />
-  <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-  <img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B.svg?style=for-the-badge&logo=slack&logoColor=white" />
 
 
 
